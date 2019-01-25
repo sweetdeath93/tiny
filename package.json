@@ -1,20 +1,32 @@
 {
-    "name": "@ivalice/tiny",
-    "version": "1.2.2",
-    "description": "Removes all spaces from a string",
-    "repository": "ivalice/tiny",
-    "main": "index.js",
-    "keywords": [
-        "tiny",
-        "npm",
-        "package",
-        "ivalice"
-    ],
-    "homepage": "https://github.com/sweetdeath93/tiny",
-    "engines": {
-        "node": ">=4.2.4"
-    },
-    "devDependencies": {
-        "react-native": "^0.52.0"
-    }
+  "name": "@ivalice/tiny",
+  "version": "2.0.0",
+  "description": "Removes all spaces from a string",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivalice/tiny.git"
+  },
+  "main": "index.js",
+  "keywords": [
+    "tiny",
+    "npm",
+    "package",
+    "ivalice"
+  ],
+  "homepage": "https://github.com/sweetdeath93/tiny",
+  "engines": {
+    "node": ">=4.2.4"
+  },
+  "devDependencies": {
+    "react-native": "^0.52.0"
+  },
+  "bugs": {
+    "url": "https://github.com/ivalice/tiny/issues"
+  },
+  "dependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "winardi",
+  "license": "ISC"
 }
