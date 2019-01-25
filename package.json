@@ -10,6 +10,7 @@
         "package",
         "ivalice"
     ],
+  "homepage": "https://github.com/sweetdeath93/tiny",
     "engines": {
         "node": ">=4.2.4"
     },
