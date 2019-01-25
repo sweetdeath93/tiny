@@ -9,5 +9,11 @@
         "npm",
         "package",
         "ivalice"
-    ]
+    ],
+    "engines": {
+        "node": ">=4.2.4"
+    },
+    "devDependencies": {
+        "react-native": "^0.52.0"
+    }
 }
