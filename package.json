@@ -1,6 +1,6 @@
 {
     "name": "@ivalice/tiny",
-    "version": "1.2.0",
+    "version": "1.2.1",
     "description": "Removes all spaces from a string",
     "repository": "ivalice/tiny",
     "main": "index.js",
@@ -10,7 +10,7 @@
         "package",
         "ivalice"
     ],
-  "homepage": "https://github.com/sweetdeath93/tiny",
+    "homepage": "https://github.com/sweetdeath93/tiny",
     "engines": {
         "node": ">=4.2.4"
     },
